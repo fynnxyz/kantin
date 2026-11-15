@@ -1,12 +1,5 @@
 # Campus Canteen
 
-## Hasil inspeksi
-
-- Folder `kantin/` semula kosong.
-- Folder `proyek-uts-main/proyek-uts-main/` berisi proyek AR HTML/JavaScript terpisah; tidak diubah.
-- Tidak ditemukan `package.json` atau konfigurasi Vite, React, TypeScript, maupun Tailwind di folder kerja.
-- Skill OpenCode `antislop` / `anti-slop` tidak ditemukan; standar anti-slop diterapkan mandiri.
-
 ## Rencana arsitektur
 
 - React + TypeScript + Vite untuk aplikasi frontend.
